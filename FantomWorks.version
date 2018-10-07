@@ -1,0 +1,32 @@
+{
+	"NAME": "FantomWorks Unofficial",
+	"URL": "https://raw.githubusercontent.com/net.lisias.kspu/FantomWorks/master/FantomWorks.version",
+	"DOWNLOAD": "https://github.com/net.lisias.kspu/FantomWorks",
+	"CHANGE_LOG":"https://raw.githubusercontent.com/net-lisias-kspu/FantomWorks/master/CHANGE_LOG.md",
+	CHANGE_LOG_URL":"https://raw.githubusercontent.com/net-lisias-kspu/FantomWorks/master/CHAMGES.md",
+	"GITHUB": {
+		"USERNAME": "net.lisias.kspu",
+		"REPOSITORY": "FantomWorks",
+		"ALLOW_PRE_RELEASE": false
+		},
+	"VERSION":{
+		"MAJOR":0,
+		"MINOR":3,
+		"PATCH":3,
+		"BUILD":0
+	},
+	"KSP_VERSION":{
+		"MAJOR":1,
+		"MINOR":0,
+	},
+	"KSP_VERSION_MIN":{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":5
+	},
+	"KSP_VERSION_MAX":{
+		"MAJOR":1,
+		"MINOR":0,
+		"PATCH":99
+	}
+}
