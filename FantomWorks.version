@@ -1,9 +1,4 @@
 {
-	"GITHUB": {
-		"USERNAME": "net.lisias.kspu",
-		"REPOSITORY": "FantomWorks",
-		"ALLOW_PRE_RELEASE": false
-		},
 	"NAME"		: "FantomWorks Unofficial",
 	"URL"		: "https://raw.githubusercontent.com/net.lisias.kspu/FantomWorks/master/FantomWorks.version",
 	"DOWNLOAD"	: "https://github.com/net.lisias.kspu/FantomWorks",
