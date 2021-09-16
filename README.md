@@ -64,4 +64,7 @@ Please note the copyrights and trademarks in [NOTICE](./NOTICE)
 		- [DropBox](https://www.dropbox.com/sh/lqqwfvi1t6k2u7r/AAD5gJxW-xEBMWVul3vHzD2Za?dl=1)
 	+ FantomWorks KAX+ Part Pack
 		- [Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/98751-105wipfantomworks-033-kax-part-pack/&)
+		- Imgur:
+			- [Released](https://imgur.com/a/dv5WF#1)
+			- [InDev](https://imgur.com/a/PqRHR#0)
 		- [SpaceDock](https://spacedock.info/mod/229/FantomWorks)
